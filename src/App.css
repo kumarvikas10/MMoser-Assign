@@ -12,6 +12,11 @@ h1 {
   color: #1e293b;
 }
 
+h2 {
+  margin: 0px;
+  color: #1e293b;
+}
+
 .dashboard {
   display: flex;
   flex-direction: column;
