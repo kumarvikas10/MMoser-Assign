@@ -1,11 +1,11 @@
-#Country Data Visualization Dashboard#
+Country Data Visualization Dashboard
 
 A React + TypeScript project visualizing country and continent data using GraphQL and Apollo Client, with rich features like a language-count bar chart, sortable searchable country table, and responsive design.
 
-##GitHub Repository Link##
+GitHub Repository Link
 https://github.com/kumarvikas10/MMoser-Assign.git
 
-##Features##
+Features
 Region Bar Chart: SVG-based, interactive horizontal bars showing number of languages by continent.
 
 Countries Table: Sortable by country name and number of languages, with continent filter and live search.
@@ -16,7 +16,7 @@ Apollo Client: Fetches live data from Countries GraphQL API.
 
 Responsive Design: Works well on desktop and mobile screens.
 
-###Getting Started###
+Getting Started
 Clone the repo:
 
 text
@@ -33,7 +33,7 @@ Open in Browser:
 
 Visit http://localhost:5173 (default for Vite)
 
-###Folder Structure###
+Folder Structure
 text
 src/
   components/
@@ -44,7 +44,7 @@ src/
   App.tsx
   main.tsx
   
-###Usage###
+Usage
 Click a continent bar to filter the table by that region.
 
 Use the table headers to sort countries.
