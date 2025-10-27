@@ -54,6 +54,10 @@
 
 .table-header {
   margin-bottom: 0.5rem;
+  margin-bottom: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .table-header h3 {
@@ -75,6 +79,15 @@
   text-align: center;
   padding: 2rem !important;
   color: #64748b;
+}
+
+.country-search-input {
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  max-width: 300px;
+  border: 1px solid #e2e8f0;
+  border-radius: 4px;
+  font-size: 1rem;
 }
 
 /* Media queries for responsiveness */
